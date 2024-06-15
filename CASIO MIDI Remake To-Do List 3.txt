@@ -1,0 +1,150 @@
+Casio MIDI Remake To-Do List 3:
+
+Renditions of Demo Songs To Do:
+Custom A^2 Pro Versions of (In Semi-Retro Style):
+
+World:
+Beautiful Dreamer
+Swing Low, Sweet Chariot
+Joshua Fought The Battle Of Jericho
+Lightly Row
+The Muffin Man
+London Bridge
+Home Sweet Home
+My Wild Irish Rose
+On Top Of Old Smokey
+America The Beautiful
+Down In The Valley
+Jeannie With The Light Brown Hair
+Holdiridia
+Cielito Lindo
+
+Accompaniment Classics:
+La Donna É Mobile From "Rigolette"
+Le Cygne From "Le Carnaval Des Animaux" (Accompaniment Version)
+Thais Meditation
+
+Classics:
+March From "The Nutcracker" (Piano Version)
+Beautiful Dreamer (Piano Version)
+Danny Boy (Piano Version)
+Moon River (Piano Version)
+Deck The Hall
+Amazing Grace (Piano Version (seen on CTK-571))
+When The Saints Go Marching In (Piano Version (seen on CTK-571))
+Candle In The Wind (Piano Version (seen on CTK-571))
+Whatever Will Be Will Be (Que Sera Sera)
+Arianfor
+
+Pops:
+Can You Feel The Love Tonight ("Lion King" Theme)
+Country Road (Take Me Home)
+Take Me Out To The Ball Game
+Moon River (Accompaniment Version)
+There You'll Be ("Pearl Harbor" Theme)
+Never Had A Dream Come True
+Beyond The Sea ("Finding Nemo" Theme)
+September
+Jupiter From "The Planets"
+In The Mood
+
+Others:
+You Are My Sunshine
+Arkansas Traveller
+She'll Be Coming Aroind The Mountain
+Tennessee Waltz
+Anchors Aweigh
+Dominique
+Katiucha
+
+Song Data:
+Finger Training No.1
+Finger Training No.2
+Le Pianiste-Virtuose No.1
+Übungsstücke Op.139 No.2
+Übungsstücke Op.139 No.5
+Übungsstücke Op.139 No.8
+Inventionen No.8
+Inventionen No.13
+Inventionen No.15
+Gavotte "Französische Suiten No.5"
+La Candeur
+La Chasse
+Ballade
+Ecossaise (Beethoven)
+Variation on "Ah! Voux Dirai-je, Maman" K.265
+O mio babbino caro From "Gianni Schicchi"
+Innocence
+Salute d'amore
+La Violette
+Spinnerlied
+Melody (Rubinstein)
+Pomp And Circumstance Op.39 No.1
+Dreaming of Home and Mother
+Kalinka
+Funiculi Funicula
+
+=======================================================================================
+
+Custom AHL/AiX (Pro) Versions of:
+
+Event:
+Happy Birthday To You (Two-Fingered Version)
+We Wish You A Merry Christmas
+Jingle Bells
+Silent Night (in B-flat Major (Two-Fingered Version))
+O Christmas Tree
+
+World:
+Swing Low, Sweet Chariot
+The Farmer In The Dell
+My Wild Irish Rose
+Swanee River (Old Folks At Home)
+Red River Valley
+Turkey In The Straw
+Down In The Valley
+America The Beautiful
+Battle Hymn Of The Republic
+When Johnny Comes Marching Home
+J'ai Perdu Le Do De Ma Clarinette
+Holdiridia
+La Cucaracha
+La Paloma
+Cielito Lindo
+Ajo Mamma
+Rasa Sayang
+
+Accompaniment Classics:
+Bridal March From "Lohengrin" (Two-Fingered Accompaniment Version)
+Triumphal March From "Aida"
+Scene From "Swan Lake"
+Toy Symphony
+La Donna E Mobile From "Rigolette"
+Polka From "The Bartered Bride"
+Thais Meditation
+
+Piano Classics:
+Joy To The World (Piano Version)
+Maple Leaf Rag (Short Version (shorter than HL))
+Le Cygne From "Le Carnaval Des Animaux" (Piano Classic Version (similar to HL))
+Csikos Post (seen on LK-208)
+Marche Militaire No.1 (seen on Chordana Play)
+Blumenlied (seen on Chordana Play)
+Grande Valse Brillante Op.18 No.1 (seen on Chordana Play)
+Inventionen No.1 (HL version)
+Beautiful Dreamer (Piano Version)
+Danny Boy (seen on CTK-3388SK)
+La Candeur (seen on Chordana Play)
+Ave Maria (Burgmuller) (seen on Chordana Play)
+Moments Musicaux Op.94 No.3
+Turkish March (Beethoven)
+Piano Sonata K.331 1st Mov.
+O mio babbino caro From "Gianni Schicchi" (Advanced Version)
+Amazing Grace (Piano Version)
+Salute d'amore
+Von Fremden Ländern und Menschen "Kindedrszenen"
+Pomp And Circumstance Op.39 No.1
+Someday My Prince Will Come (Advanced Version)
+
+Pops:
+My Heart Will Go On ("Titanic" Theme) (in C Minor)
