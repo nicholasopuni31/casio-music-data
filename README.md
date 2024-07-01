@@ -10,13 +10,13 @@
 
 ## Here's the desired directory structure:
 
-`MUSICDAT
-*  HL
-  *  Customs
-  *  List of Demo Songs from HL keyboards
-*  A2 Pro
-  *  List of Demo Songs from A2 Pro keyboards (semi-retro style)
-*  A2
-  *  List of Demo Songs from HL keyboards (retro style)
-*  AHL
-  *  List of Demo Songs from AHL keyboards (two handed)`
+MUSICDAT
+- HL
+  - Customs
+  - List of Demo Songs from HL keyboards
+- A2 Pro
+  - List of Demo Songs from A2 Pro keyboards (semi-retro style)
+- A2
+  - List of Demo Songs from HL keyboards (retro style)
+- AHL
+  - List of Demo Songs from AHL keyboards (two handed)`
