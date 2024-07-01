@@ -7,3 +7,16 @@
 - There are two folders, in the Other MIDIs folder:
   - "Other Demo Songs" contain demo songs from other CASIO keyboards including songs that are requested to make its way into such keyboards.
   - "Unfinished MIDIs" contain MIDI versions of demo songs from CASIO keyboards that are currently under completion.
+
+## Here's the desired directory structure:
+
+`MUSICDAT`
+*  `HL`
+  *  `Customs`
+  *  `List of Demo Songs from HL keyboards`
+*  `A2 Pro`
+  *  `List of Demo Songs from A2 Pro keyboards (semi-retro style)`
+*  `A2`
+  *  `List of Demo Songs from HL keyboards (retro style)`
+*  `AHL`
+  *  `List of Demo Songs from AHL keyboards (two handed)`
