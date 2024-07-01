@@ -1,7 +1,7 @@
 Casio MIDI Remake To-Do List:
 
 Remakes of Demo Songs to Edit and Polish:
-HL Versions of (songs from my favorite keyboard):
+HL Versions of (songs from my favorite keyboard: LK-90TV) (finished):
 
 Pops:
 Heart And Soul
@@ -109,7 +109,7 @@ American Patrol
 Csikos Post
 Dolly's Dreaming And Awakening
 La Chevaleresque
-Sonata K.545 1st Mov.
+Piano Sonata K.545 1st Mov.
 La Priere D'une Vierge
 Nocturne Op.9 No.2 (Chopin)
 Marche Militaire No.1
