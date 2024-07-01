@@ -10,13 +10,18 @@
 
 ## Here's the desired directory structure:
 
-MUSICDAT
-- HL
-  - Customs
+MUSICDAT:
+- HL:
   - List of Demo Songs from HL keyboards
-- A2 Pro
+  - HL+:
+    - List of Demo Songs from HL+ keyboards
+  - HL Pro:
+    - List of Demo Songs from HL Pro keyboards
+  - SONGDAT:
+    - List of CD-ROM Songs from LK-200s/210/215/300TV, CTK-810/810IN, and WK-110
+- A2 Pro:
   - List of Demo Songs from A2 Pro keyboards (semi-retro style)
-- A2
+- A2:
   - List of Demo Songs from HL keyboards (retro style)
-- AHL
-  - List of Demo Songs from AHL keyboards (two handed)`
+- AHL:
+  - List of Demo Songs from AHL keyboards (two handed)
