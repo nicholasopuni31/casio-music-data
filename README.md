@@ -6,9 +6,6 @@
 - In addition, the Other MIDIs folder inside this folder contains MIDI versions of demo songs from other LK and CTK CASIO keyboards with HL, A2, and AHL.
 - There are two folders, in the Other MIDIs folder:
   - "Other Demo Songs" contain demo songs from other CASIO keyboards including songs that are requested to make its way into such keyboards.
-<<<<<<< HEAD
-  - "Unfinished MIDIs" contain MIDI versions of demo songs from CASIO keyboards that are currently under completion.
-=======
   - "Unfinished MIDIs" contain MIDI versions of demo songs from CASIO keyboards that are currently under completion.
 
 ## Here's the desired directory structure:
@@ -42,4 +39,3 @@
 - List of Rhythms from Casio LK-78/88CD keyboards
 - Other Rhythms:
   - List of other rhythms from other HL/A2/AHL/AiX keyboards
->>>>>>> e6b8f4d5e70082bc915c2a221583bb80a30f5c1f
