@@ -10,18 +10,32 @@
 
 ## Here's the desired directory structure:
 
-MUSICDAT:
-- HL:
-  - List of Demo Songs from HL keyboards
+### MUSICDAT:
+- List of songs from the Casio LK-90/92TV keyboards
+- HL Basic:
+  - List of Demo Songs from other HL keyboards
   - HL+:
     - List of Demo Songs from HL+ keyboards
   - HL Pro:
     - List of Demo Songs from HL Pro keyboards
   - SONGDAT:
-    - List of CD-ROM Songs from LK-200s/210/215/300TV, CTK-810/810IN, and WK-110
+    - List of CD-ROM Songs from Casio LK-200s/210/215/300TV, CTK-810/810IN, and WK-110 keyboards
+  - Customs:
+    - List of custom demo songs that are not on HL keyboards
 - A2 Pro:
   - List of Demo Songs from A2 Pro keyboards (semi-retro style)
-- A2:
+  - Customs:
+    - List of custom demo songs that are not on A2 Pro keyboards
+  - SONGDAT:
+    - List of CD-ROM Songs from HL keyboards, except that other songs like these will be added and re-edited
+- A2 Basic:
   - List of Demo Songs from HL keyboards (retro style)
-- AHL:
-  - List of Demo Songs from AHL keyboards (two handed)
+- AHL/AiX:
+  - List of Demo Songs from AHL/AiX keyboards (two handed)
+  - Customs:
+    - List of custom demo songs that are not on AHL/AiX keyboards
+
+### RYTHMDAT:
+- List of Rhythms from Casio LK-78/88CD keyboards
+- Other Rhythms:
+  - List of other rhythms from other HL/A2/AHL/AiX keyboards
