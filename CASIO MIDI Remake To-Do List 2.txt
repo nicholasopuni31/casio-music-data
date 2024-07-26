@@ -1,7 +1,7 @@
 Casio MIDI Remake To-Do List 2:
 
 Renditions of Demo Songs To Do:
-A^2 Classic Versions of (In Retro Style):
+A^2 Basic Versions of (In Retro Style):
 
 Event:
 Happy Birthday To You
@@ -159,8 +159,8 @@ Others:
 Nobody Knows The Trouble I See
 Shall We Gather At The River
 You Are My Sunshine
-Arkansas Traveller
-She'll Be Coming Aroind The Mountain
+Arkansas Traveler
+She'll Be Coming Around The Mountain
 I Am A Poor Wayfaring Stranger
 Tennessee Waltz
 This Land Is Your Land
