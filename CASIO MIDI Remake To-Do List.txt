@@ -116,6 +116,152 @@ Marche Militaire No.1
 Blumenlied
 Grande Valse Brillante Op.18 No.1
 
+Rhythms:
+
+Pops I:
+World Pop
+8 Beat Pop
+Soul Ballad 1
+Pop Shuffle 1
+8 Beat Dance
+Pop Ballad 1
+Pop Ballad 2
+Ballad
+Fusion Shuffle
+
+Pops II:
+Soul Ballad 2
+16 Beat 1
+16 Beat 2
+16 Beat 3
+8 Beat 1
+8 Beat 2
+Dance Pop 1
+Pop Fusion
+Pop 2
+Pop Waltz
+
+Dance/Funk:
+Dance
+Disco 1
+Disco 2
+Euro Beat
+Dance Pop 2
+Groove Soul
+Techno
+Trance
+Hip-Hop
+Funk
+
+Rock I:
+Pop Rock 1
+Pop Rock 2
+Pop Rock 3
+Folkie Pop
+Pop Shuffle 2
+Rock Ballad
+Soft Rock
+Rock 1
+Rock 2
+Heavy Metal
+
+Rock II:
+60's Rock
+60's Soul
+Slow Rock
+Shuffle Rock
+50's Rock
+Blues
+New Orleans Rock & Roll
+Twist
+Rhythm & Blues
+Rock Waltz
+
+Jazz:
+Big Band 1
+Big Band 2
+Big Band 3
+Swing
+Slow Swing
+Fox Trot
+Jazz Combo 1
+Jazz Voices
+Acid Jazz
+Jazz Waltz
+
+European:
+Polka
+Pop Polka
+March 1
+March 2
+Waltz 1
+Slow Waltz
+Viennese Waltz
+French Waltz
+Serenade
+Tango
+
+Latin I:
+Bosa Nova 1
+Bosa Nova 2
+Samba 1
+Samba 2
+Mambo
+Rhumba
+Cha-Cha-Cha
+Merengue
+Bolero
+Salsa
+
+Latin II/Various I:
+Reggae
+Punta
+Cumbia
+Pasodoble
+Ska
+Bluegrass
+Dixie
+Texas-Mexican
+Country 1
+Country 2
+
+Various II:
+Folklore
+Jive
+Fast Gospel
+Slow Gospel
+Sirtaki
+Hawaiian
+Adani
+Baladi
+Enka
+String Quartet
+
+For Piano I:
+
+Piano Ballad 1
+Piano Ballad 2
+Piano Ballad 3
+Electric Piano Ballad 1
+Electric Piano Ballad 2
+Blues Ballad
+Mellow Jazz
+Jazz Combo 2
+Ragtime
+Boogie
+
+For Piano II:
+Arpeggio 1
+Arpeggio 2
+Arpeggio 3
+Piano Ballad 4
+6/8 March
+March 2
+2 Beat
+Waltz 2
+Waltz 3
+Waltz 4
+
 ================================================
 
 Remakes of Other Demo Songs To Re-Edit:
@@ -190,7 +336,7 @@ Groovee!
 Whatever Will Be Will Be (Que Sera Sera)
 Arianfor
 
-Others:
+Hikari Songs:
 When You Wish Upon A Star
 It's A Small World
 My Heart Will Go On ("Titanic" Theme)
@@ -204,7 +350,7 @@ Moon River (Piano Version)
 ======================================================
 
 Renditions of Other Demo Songs To Do:
-Custom HL (Pro) Versions of:
+Custom HL Versions of:
 
 World:
 J'ai Perdu Le Do De Ma Clarinette
