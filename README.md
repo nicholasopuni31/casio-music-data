@@ -244,13 +244,15 @@
 - Serenade
 - Tango
 
-## Rhythms to do:
-
 #### Latin I:
 - Bosa Nova 1
 - Bosa Nova 2
 - Samba 1
 - Samba 2
+
+## Rhythms to do:
+
+#### Latin I:
 - Mambo
 - Rhumba
 - Cha-Cha-Cha
