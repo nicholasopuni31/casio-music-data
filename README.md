@@ -1,13 +1,13 @@
 # Casio Music Data (MUSICDAT)
-- This repository contains MIDI files/versions of renditions from certain CASIO keyboards, including remakes of song bank/piano bank tunes and rhythms.
-- I've tested these MIDI files on my Casiotone LK-S450 because the maximum number of characters of each one are 14.
-  - Feel free to use these MIDIs with and for your music, games, and other forms of entertainment.
+- This repository contains MIDI files/versions of renditions from certain CASIO keyboards, including remakes of song bank/piano bank tunes and rhythms. I've been remaking these MIDIs for over 8 years.
+- I've tested these MIDI files on my Casiotone LK-S450 and found that 14 is the maximum number of characters of each file.
+  - Feel free to use some of these MIDIs with and for your music, games, and other forms of entertainment.
   - But be sure to, when using these MIDIs by editing them, give credit when credit is due!
-- This repository is yet to be organized, so also feel free to help me out with it.
+- This repository is also yet to be organized, so also feel free to help me out with it.
 - Inside the MUSICDAT folder are 100 MIDI versions of tunes from my favorite childhood keyboard, CASIO LK-90TV.
+  - Inside that folder is the Other MIDIs folder containing custom MIDI versions of demo songs edited from other CASIO keyboards in the LK and CTK family with HL, A^2, AHL, and AiX sound sources.
 - Inside the RYTHMDAT folder are 120 MIDI versions of rhythms from that keyboard.
-- In addition, the Other MIDIs folder inside this folder contains MIDI versions of demo songs from other LK and CTK CASIO keyboards with HL, A^2, and AHL.
-- There are two folders, in the Other MIDIs folder:
+- In addition, there are also two folders in the Other MIDIs folder:
   - "Other Demo Songs" contain demo songs from other CASIO keyboards including songs that are requested to make its way into such keyboards.
   - "Unfinished MIDIs" contain MIDI versions of demo songs from CASIO keyboards that are currently under completion.
 
@@ -397,6 +397,14 @@
 - Always On My Mind
 - Another Day In Paradise
 
+### Other A^2 Pops & Classics:
+- Over The Rainbow (Piano Version)
+- Happy Birthday To You (Piano Version)
+- Let It Be
+- Take The "A" Train
+- Piano Man
+- My Favorite Things
+
 ### HL Song Data:
 - Finger Training No.1
 - Finger Training No.2
@@ -423,14 +431,6 @@
 - Dreaming of Home and Mother
 - Kalinka
 - Funiculi Funicula
-
-### Other A^2 Pops & Classics:
-- Over The Rainbow (Piano Version)
-- Happy Birthday To You (Piano Version)
-- Let It Be
-- Take The "A" Train
-- Piano Man
-- My Favorite Things
 
 ### HL Hikari Songs:
 - My Neighbor Totoro ("Sanpo" Theme)
