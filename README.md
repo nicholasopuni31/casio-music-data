@@ -46,7 +46,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Other Rhythms:
   - List of other rhythms from other HL/A2/AHL/AiX keyboards
 
-## Things done:
+## Songs done:
 ### HL Songs:
 #### Pops:
 - Heart And Soul
@@ -122,7 +122,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Brindisi From "La Traviata"
 
 #### Piano Classics:
-- Etudes:
+#### Etudes:
 - Minuet (J.S. Bach)
 - Gavotte (Gossec)
 - Chopsticks
@@ -161,7 +161,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Blumenlied
 - Grande Valse Brillante Op.18 No.1
 
-### Rhythms:
+### Rhythms done:
 #### Pops I:
 - World Pop
 - 8 Beat Pop
@@ -308,8 +308,8 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Waltz 3
 - Waltz 4
 
-## Things partially done but needed to re-edit
-### HL Songs
+## Songs partially done but needed to re-edit:
+### HL Songs:
 #### Accompaniment Classics:
 - Air From "Suite No.3"
 - Spring From "The Four Seasons"
@@ -338,7 +338,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Beautiful Dreamer (Piano Version)
 - Danny Boy (Piano Version)
 
-### A^2 Pro Songs
+### A^2 Pro Songs:
 #### Event:
 - Happy Birthday To You
 
@@ -360,7 +360,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Scene From "Swan Lake"
 - Toy Symphony
 
-## More things to do
+## Songs to do:
 ### HL Pops:
 - Can You Feel The Love Tonight ("Lion King" Theme)
 - Hard To Say I'm Sorry
@@ -398,7 +398,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Always On My Mind
 - Another Day In Paradise
 
-### Other A^2 Pops & Classics:
+### A^2 Classics:
 - Over The Rainbow (Piano Version)
 - Happy Birthday To You (Piano Version)
 - Let It Be
