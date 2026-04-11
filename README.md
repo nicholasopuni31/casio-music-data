@@ -1,38 +1,41 @@
 # Casio Music Data (MUSICDAT)
 - This repository contains MIDI files/versions of renditions from certain CASIO keyboards, including remakes of song bank/piano bank tunes and rhythms.
-- I test these MIDI files on my Casiotone LK-S450 because the maximum number of characters of each one are 14.
+- I've tested these MIDI files on my Casiotone LK-S450 because the maximum number of characters of each one are 14.
   - Feel free to use these MIDIs with and for your music, games, and other forms of entertainment.
-  - But when you use these MIDIs by editing them, be sure to give credit when credit is due!
-- This repository is yet to be organized, so also feel free to help out with it.
+  - But be sure to, when using these MIDIs by editing them, give credit when credit is due!
+- This repository is yet to be organized, so also feel free to help me out with it.
 - Inside the MUSICDAT folder are 100 MIDI versions of tunes from my favorite childhood keyboard, CASIO LK-90TV.
+- Inside the RYTHMDAT folder are 120 MIDI versions of rhythms from that keyboard.
 - In addition, the Other MIDIs folder inside this folder contains MIDI versions of demo songs from other LK and CTK CASIO keyboards with HL, A^2, and AHL.
 - There are two folders, in the Other MIDIs folder:
   - "Other Demo Songs" contain demo songs from other CASIO keyboards including songs that are requested to make its way into such keyboards.
   - "Unfinished MIDIs" contain MIDI versions of demo songs from CASIO keyboards that are currently under completion.
 
 ## Here's the desired directory structure:
-
 ### MUSICDAT:
 - List of songs from the Casio LK-90/92TV keyboards
 - HL Basic:
-  - List of Demo Songs from other HL Basic keyboards, such as LK-90
+  - List of Demo Songs from other HL Basic keyboards, such as LK-93/94TV and LK-200s/210/215
   - HL+:
-    - List of Demo Songs from HL+ keyboards
+    - List of Demo Songs from HL+ keyboards, such as CTK-800
   - HL Pro:
-    - List of Demo Songs from HL Pro keyboards
+    - List of Demo Songs from HL Pro keyboards, such as LK-300TV and CTK-810
   - SONGDAT:
     - List of CD-ROM Songs from Casio LK-200s/210/215/300TV, CTK-810/810IN, and WK-110 keyboards
   - Customs:
     - List of custom demo songs that are not on HL keyboards
 - A^2 Pro:
-  - List of Demo Songs from A^2 Pro keyboards (semi-retro style)
+  - List of Demo Songs from A^2 Pro keyboards (semi-retro style), such as CTK-591/593 and LK-55/56
   - Customs:
     - List of custom demo songs that are not on A^2 Pro keyboards
   - SONGDAT:
-    - List of CD-ROM Songs from A^2 Pro keyboards, except that other songs like these will be added and re-edited
+    - List of CD-ROM Songs from HL keyboards that are also not on A^2 Pro keyboards, except that those songs will be added and re-edited
 - A^2 Basic:
-  - List of Demo Songs from A^2 basic keyboards (retro style)
+  - List of Demo Songs from A^2 basic keyboards (retro style), such as LK-50/60/65, and CTK-620L
+- A^2+:
+  - List of Demo Songs from A^2+ keyboards (retro style), such as CTK-571/573/574 and LK-73
 - AHL/AiX:
+  - List of 2 or more Accompaniment Demo Tunes from AHL/AiX keyboards
   - List of Demo Songs from AHL/AiX keyboards (two handed)
   - Customs:
     - List of custom demo songs that are not on AHL/AiX keyboards
@@ -43,9 +46,7 @@
   - List of other rhythms from other HL/A2/AHL/AiX keyboards
 
 ## Things done:
-
 ### HL Songs:
-
 #### Pops:
 - Heart And Soul
 - Beyond The Sea ("Finding Nemo" Theme)
@@ -160,7 +161,6 @@
 - Grande Valse Brillante Op.18 No.1
 
 ### Rhythms:
-
 #### Pops I:
 - World Pop
 - 8 Beat Pop
@@ -249,10 +249,6 @@
 - Bosa Nova 2
 - Samba 1
 - Samba 2
-
-## Rhythms to do:
-
-#### Latin I:
 - Mambo
 - Rhumba
 - Cha-Cha-Cha
@@ -267,6 +263,9 @@
 - Pasodoble
 - Ska
 - Bluegrass
+
+### Rhythms to do:
+#### Latin II/Various I:
 - Dixie
 - Texas-Mexican
 - Country 1
@@ -308,10 +307,8 @@
 - Waltz 3
 - Waltz 4
 
-## Things partially done but to re-edit
-
+## Things partially done but needed to re-edit
 ### HL Songs
-
 #### Accompaniment Classics:
 - Air From "Suite No.3"
 - Spring From "The Four Seasons"
@@ -320,7 +317,6 @@
 
 #### World:
 - Down In The Valley
-- Furusato
 
 #### Concert Pieces:
 - La Fille Aux Cheveux De Lin
@@ -342,7 +338,6 @@
 - Danny Boy (Piano Version)
 
 ### A^2 Pro Songs
-
 #### Event:
 - Happy Birthday To You
 
@@ -358,14 +353,13 @@
 - Piano Sonata K.331 1st Mov.
 - Von Fremden Ländern und Menschen
 
-#### A^2 Songs:
+#### Other A^2 Songs:
 - Polka From "The Bartered Bride"
 - Rasa Sayang
 - Scene From "Swan Lake"
 - Toy Symphony
 
 ## More things to do
-
 ### HL Pops:
 - Can You Feel The Love Tonight ("Lion King" Theme)
 - Hard To Say I'm Sorry
@@ -397,6 +391,7 @@
 - Crocodile Rock
 - How Deep Is Your Love
 - Summer Time
+- When You Wish Upon A Star
 - Top Of The World
 - Superstition
 - Always On My Mind
@@ -436,19 +431,18 @@
 - Take The "A" Train
 - Piano Man
 - My Favorite Things
-- Someday My Prince Will Come
-- Your Song
-- First Love
-- Private Eyes
 
 ### HL Hikari Songs:
-- First Love
+- My Neighbor Totoro ("Sanpo" Theme)
 - When You Wish Upon A Star
 - It's A Small World
 - My Heart Will Go On ("Titanic" Theme)
 - Happy Birthday To You
 - Complicated
 - Jupiter from "The Planets"
+- Furusato
+- Tanuki Of Genkotsu Mountain
+- Thy Friend (Zigeunerweisen)
 - Let It Be
 - Over The Rainbow (Piano Version)
 - Moon River (Piano Version)
