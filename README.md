@@ -405,6 +405,9 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Take The "A" Train
 - Piano Man
 - My Favorite Things
+- Amazing Grace (Piano Version)
+- When The Saints Go Marching In (Piano Version)
+- Candle In The Wind
 
 ### HL Song Data:
 - Finger Training No.1
@@ -441,6 +444,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Happy Birthday To You
 - Complicated
 - Jupiter from "The Planets"
+- First Love
 - Furusato
 - Tanuki Of Genkotsu Mountain
 - Thy Friend (Zigeunerweisen)
