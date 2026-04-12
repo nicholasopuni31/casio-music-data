@@ -266,15 +266,15 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Bluegrass
 - Dixie
 - Texas-Mexican
-
-### Rhythms to do:
-#### Latin II/Various I:
 - Country 1
 - Country 2
 
 #### Various II:
 - Folklore
 - Jive
+
+### Rhythms to do:
+#### Various II:
 - Fast Gospel
 - Slow Gospel
 - Sirtaki
