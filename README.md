@@ -264,11 +264,11 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - Pasodoble
 - Ska
 - Bluegrass
+- Dixie
+- Texas-Mexican
 
 ### Rhythms to do:
 #### Latin II/Various I:
-- Dixie
-- Texas-Mexican
 - Country 1
 - Country 2
 
