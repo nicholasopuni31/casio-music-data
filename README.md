@@ -272,10 +272,10 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 #### Various II:
 - Folklore
 - Jive
+- Fast Gospel
 
 ### Rhythms to do:
 #### Various II:
-- Fast Gospel
 - Slow Gospel
 - Sirtaki
 - Hawaiian
