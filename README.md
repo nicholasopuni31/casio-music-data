@@ -47,7 +47,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
   - List of other rhythms from other HL/A2/AHL/AiX keyboards
 
 ## Songs done:
-### HL Songs:
+### <s>HL Songs:
 #### Pops:
 - Heart And Soul
 - Beyond The Sea ("Finding Nemo" Theme)
@@ -303,7 +303,7 @@ This repository contains MIDI files/versions of renditions from certain CASIO ke
 - 2 Beat
 - Waltz 2
 - Waltz 3
-- Waltz 4
+- Waltz 4</s>
 
 ## Songs partially done but needed to re-edit:
 ### HL Songs:
